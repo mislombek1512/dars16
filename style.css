@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Varela Round', sans-serif;
+}
+
+section{
+    padding-top: 20px;
+}
+
+section .mycard a {
+    text-decoration: none;
+}
